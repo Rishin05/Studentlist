@@ -8,7 +8,7 @@ package studentdata;
 /**
  * This class represents student 
  *
- * @author Megha Patel
+ * @author Rishin Patel
  */
 public class Student {
 
