@@ -30,7 +30,7 @@ public class StudentList {
        // int[] i=new int[2];
         Student[] studList=new Student[5];
         //studList[0].setStudentName("Jack");
-        Scanner sc=new Scanner(System.in);
+
         for(int i=0;i<studList.length;i++)
         {
             System.out.println("Enter Student name: ");
