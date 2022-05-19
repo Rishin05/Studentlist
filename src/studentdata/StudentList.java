@@ -14,17 +14,16 @@ public class StudentList {
      */
     public static void main(String[] args) {
   
-//        Student s1=new Student("Megha");
-//        Student s2=new Student();
-//        Student s3=new Student();
-//        s2.setStudentName("Jack");
-//        Scanner sc=new Scanner(System.in);
-//        System.out.println("Enter student name: ");
-//        s3.setStudentName(sc.nextLine());
-//        
-//        System.out.println("Student name:");
-//        System.out.println(s1.getStudentName()+" "+s2.getStudentName()+" "+s3.getStudentName());
-//    
+       Student s1=new Student("Rishin");
+       Student s2=new Student();
+       Student s3=new Student();
+       s2.setStudentName("Jack");
+       Scanner sc=new Scanner(System.in);
+       System.out.println("Enter student name: ");
+       s3.setStudentName(sc.nextLine());       
+       System.out.println("Student name:");
+       System.out.println(s1.getStudentName()+" "+s2.getStudentName()+" "+s3.getStudentName());
+  
         
         //create an array of student object and print it
         
